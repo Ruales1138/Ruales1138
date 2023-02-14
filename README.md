@@ -1,13 +1,13 @@
-# Hola! Mi nombre es Santiago Carmona
+# Hola! Mi nombre es David Ruales
 
 ## ¿Quién soy?
-Soy un aficionado al mundo de la tecnologia, por lo que he realizado distintos estudios y cursos para poder afianzar mis conocimientos. Desarrollador de software y desarrollador web full stack, destacando mis conocimientos del lado del Back-End. Soy una persona muy interesada en el conocimiento, con deseos de aprender nuevas tecnologias y aplicarlas en diversos proyectos.
+Hola, soy un apasionado por la tecnología y me dedico al desarrollo web. Soy un Web Stack Developer con experiencia en el diseño y desarrollo de aplicaciones web utilizando una amplia variedad de herramientas y tecnologías, incluyendo HTML, CSS, JavaScript, React, Redux y muchas otras.
 
 ## ¿Qué hago?
-Actualmente me dedico a estudiar sobre nuevas tecnologias y complementos como programador. Ademas de realizar proyectos que me ayudan a mejorar mis habilidades y conocimientos como programador.
+En este momento estoy enfocado en estudiar y aprender acerca de las últimas tecnologías y herramientas para mejorar mi conjunto de habilidades como programador. Me apasiona estar al día con las últimas tendencias y complementos en el campo del desarrollo web, y estoy constantemente investigando y experimentando con nuevas herramientas y tecnologías.
 
-## ¿Cuales son mis metas?
-Mi objetivo es participar en proyectos nuevos e innovadores que puedan realizar impacto en la sociedad, para demostrar la capacidad inimaginable de la programacion.
+## ¿A donde me dirijo?
+Busco involucrarme en proyectos innovadores que tengan un impacto significativo en la sociedad, con el fin de demostrar el enorme potencial de la programación. Mi objetivo es utilizar mis habilidades como programador para contribuir al desarrollo de soluciones tecnológicas que tengan un impacto positivo en el mundo, ya sea en el ámbito social, ambiental o económico. Quiero ser parte de proyectos que desafíen los límites de lo que se considera posible y que me permitan crecer tanto personal como profesionalmente, mientras contribuyo a construir un futuro mejor para todos.
 
 ## ¿Qué tecnologías uso?
 * JavaScript
@@ -18,15 +18,13 @@ Mi objetivo es participar en proyectos nuevos e innovadores que puedan realizar 
 * PostgreSQL
 * Sequelize
 * GIT
-* Java
-* PHP
 * Redux
 * HTML
 * CSS
 
 ## No dudes en contactarme!
-### [LinkedIn](https://www.linkedin.com/in/santiago-carmona-osorio-b3252825b/)
-### Correo: santiago.s2003@gmail.com
+### [LinkedIn](https://www.linkedin.com/in/david-ruales-aa8119246/)
+### Correo: hruales1138@gmail.com
 
 <!--
 **SCarmona02/SCarmona02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
